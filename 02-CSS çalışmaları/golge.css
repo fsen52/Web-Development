@@ -1,0 +1,13 @@
+.yazi {
+  font-size: 30px;
+  color: greenyellow;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px black;
+}
+.kutu {
+  width: 100px;
+  height: 100px;
+  background-color: hotpink;
+  margin-top: 20px;
+  box-shadow: 5px 5px 5px black;
+}

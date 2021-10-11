@@ -1,0 +1,24 @@
+.ust-menu {
+  background-color: grey;
+}
+
+.header div,
+.ust-menu div {
+  display: inline-block;
+  color: white;
+  width: 48.5%;
+  padding: 5px;
+}
+.header {
+  background-color: gainsboro;
+  position: sticky;
+  top: 0%;
+}
+.header .menu,
+.ust-sag-menu {
+  text-align: right;
+}
+.ust-menu a {
+  color: white;
+  text-decoration: none;
+}

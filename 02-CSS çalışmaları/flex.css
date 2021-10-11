@@ -1,0 +1,26 @@
+.kutu {
+  background-color: blueviolet;
+  border: 1px solid red;
+  margin: 15px;
+}
+.kutu1 {
+  flex: 1;
+}
+.kutu2 {
+  flex: 2;
+}
+.kutu3 {
+  flex: 3;
+}
+.kutu4 {
+  flex: 4;
+}
+.kutular {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  background-color: bisque;
+  height: 200px;
+  align-items: center;
+}

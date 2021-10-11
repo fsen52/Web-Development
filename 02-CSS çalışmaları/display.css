@@ -1,0 +1,19 @@
+.menu ul {
+  list-style: none;
+}
+
+.menu li {
+  display: inline-block;
+}
+.menu a {
+  text-decoration: none;
+  background-color: coral;
+  color: black;
+  padding: 10px 20px;
+  margin: 3px;
+  border-radius: 15px;
+}
+.menu a:hover {
+  background-color: goldenrod;
+  color: white;
+}
